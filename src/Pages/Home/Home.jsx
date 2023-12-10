@@ -6,7 +6,7 @@ import Dental from "./Dental";
 import Makeappointment from "./Makeappointment";
 import Testimonials from "./Testimonials";
 import Contact from "./Contact";
-import Footer from "./Footer";
+import Footer from "../Shared/Footer";
 
 const Home = () => {
   return (
